@@ -48,8 +48,8 @@ Sistem ini menggunakan pendekatan sebagai berikut:
 
 ## File Output
 
-* File hasil vektorisasi disimpan dalam format `.json` atau `.csv`.
-* File similarity matrix disimpan dalam format `.csv`.
+* File hasil vektorisasi disimpan dalam format `.json`.
+* File similarity matrix disimpan dalam format `.json`.
 
 ---
 
